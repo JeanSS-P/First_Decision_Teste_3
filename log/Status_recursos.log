@@ -1,0 +1,8 @@
+2024-06-26 18:06:48,123 - ERROR - Erro no monitoramento: module 'psutil' has no attribute 'virtual_Momoria'
+2024-06-26 18:13:20,732 - INFO - CPU Usage: 54.1% (Moderado), Memory Usage: 63.3% (Moderado), Disk Usage: 66.8% (Moderado)
+2024-06-26 18:14:52,286 - ERROR - Error monitoring resources: module 'psutil' has no attribute 'disco'
+2024-06-26 18:15:26,747 - INFO - CPU: 52.4% (Moderado), Memoria: 62.6% (Moderado), Disco: 66.8% (Moderado)
+2024-06-26 18:16:18,471 - INFO - CPU: 54.5% (Moderado), Memoria: 63.0% (Moderado), Disco: 66.8% (Moderado)
+2024-06-26 18:34:47,565 - INFO - CPU: 0.1% (Baixo), Memoria: 10.6% (Baixo), Disco: 0.2% (Baixo)
+2024-06-26 21:16:05,923 - INFO - CPU: 81.9% (Alto), Memoria: 85.7% (Alto), Disco: 69.0% (Moderado)
+2024-06-26 21:17:38,165 - INFO - CPU: 65.6% (Moderado), Memoria: 82.5% (Alto), Disco: 69.0% (Moderado)
